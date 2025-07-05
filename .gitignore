@@ -1,0 +1,86 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+!/.mvn/wrapper
+/.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.launch
+.metadata
+# STS (Spring Tool Suite)
+.sts4-cache/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# NetBeans
+nbproject/
+*.form
+*.properties.orig
+*.log
+# If you have specific build output folders for NetBeans outside of target/
+# e.g., build/ or dist/
+# build/
+# dist/
+
+# Logs
+*.log
+logs/
+*.txt # If you generate text logs in the root or other directories
+
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS generated files
+.DS_Store # macOS
+Thumbs.db # Windows
+
+# Temporary files
+*~
+.#*
+#*#
+
+# Spring Boot specific (if you ever convert to Spring Boot)
+# /src/main/resources/application.properties
+# /src/main/resources/application.yml
+# /src/main/resources/application-*.properties
+# /src/main/resources/application-*.yml
+# !/src/main/resources/application.properties.example
+# !/src/main/resources/application.yml.example
+# /src/main/resources/logback-spring.xml
+# /src/main/resources/bootstrap.properties
+# /src/main/resources/bootstrap.yml
+# /src/main/resources/config/*/
+# /src/main/resources/public/
+# /src/main/resources/static/
+# /src/main/resources/templates/
+# /src/main/webapp/WEB-INF/classes/
+# /src/main/webapp/WEB-INF/lib/
+# /src/main/webapp/WEB-INF/spring/
+# /src/main/webapp/WEB-INF/views/
+# /src/main/webapp/WEB-INF/web.xml
